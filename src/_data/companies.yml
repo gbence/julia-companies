@@ -15,3 +15,10 @@ Cursor Insight:
   github: https://github.com/cursorinsight/
   location: Budapest, Hungary
   description: Our motion analysis engine (which serves millions of banking customers by verifying their electronic signatures) is implemented in Julia.
+
+aenarete - Smart Wind:
+  industry: Wind Energy
+  url: https://aenarete.eu
+  github: https://github.com/ufechner7/
+  location: Den Haag, The Netherlands
+  description: Development of simulation and optimization software for airborne wind energy systems. Fast flight data analysis.
