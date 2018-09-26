@@ -14,11 +14,26 @@ Cursor Insight:
   url: https://cursorinsight.com
   github: https://github.com/cursorinsight/
   location: Budapest, Hungary
-  description: Our motion analysis engine (which serves millions of banking customers by verifying their electronic signatures) is implemented in Julia.
+  description: Cursor Insight's motion analysis engine (which serves millions of banking customers by verifying their electronic signatures) is implemented in Julia.
 
 aenarete - Smart Wind:
-  industry: Wind Energy
+  industry: Energy
   url: https://aenarete.eu
   github: https://github.com/ufechner7/
   location: Den Haag, The Netherlands
   description: Development of simulation and optimization software for airborne wind energy systems. Fast flight data analysis.
+
+# https://juliacomputing.com/case-studies/aviva.html
+Aviva:
+  industry: Insurance
+  url: https://www.aviva.com/
+  location: UK
+  description: Aviva has deployed applications written in Julia into production for capital allocation models for life insurance, general insurance and other instruments worldwide, and is now applying Julia to risk analytics, credit management and asset management.
+
+# https://juliacomputing.com/case-studies/invenia.html
+Invenia Technical Computing:
+  industry: Energy
+  url: https://www.invenia.ca/
+  github: https://github.com/invenia/
+  location: Winnipeg, Canada
+  description: Invenia is using Julia to make electrical grids more efficient, reliable and secure.
